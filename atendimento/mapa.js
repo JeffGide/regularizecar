@@ -63,6 +63,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const adminPhoto = document.createElement("img");
       adminPhoto.src = city.photo;
       adminPhoto.alt = `${city.admin}'s photo`;
+      adminPhoto.className = "img-fluid";
   
       const adminInfo = document.createElement("div");
       adminInfo.className = "admin-info";

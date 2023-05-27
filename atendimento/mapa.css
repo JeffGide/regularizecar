@@ -77,3 +77,9 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+@media (max-width: 767px) {
+  #map {
+    height: 300px;
+  }
+}
