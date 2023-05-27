@@ -1,0 +1,27 @@
+[
+    {
+      "name": "São Paulo",
+      "location": [-23.5505, -46.6333],
+      "color": "red",
+      "admin": "João Silva, CEO da Empresa XYZ"
+    },
+    {
+      "name": "Campinas",
+      "location": [-22.9099, -47.0626],
+      "color": "blue",
+      "admin": "Maria Santos, Diretora da Empresa ABC"
+    },
+    {
+      "name": "Ribeirão Preto",
+      "location": [-21.1704, -47.8103],
+      "color": "green",
+      "admin": "Pedro Oliveira, Gerente da Empresa 123"
+    },
+    {
+      "name": "Sorocaba",
+      "location": [-23.5255, -47.4611],
+      "color": "yellow",
+      "admin": "Robson Eduardo, CEO da Regularize"
+    }
+  ]
+  
